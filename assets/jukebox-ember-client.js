@@ -733,6 +733,6 @@ catch(err) {
 });
 
 if (!runningTests) {
-  require("jukebox-ember-client/app")["default"].create({"name":"jukebox-ember-client","version":"0.0.0+566896fa"});
+  require("jukebox-ember-client/app")["default"].create({"name":"jukebox-ember-client","version":"0.0.0+bf1a2245"});
 }
 //# sourceMappingURL=jukebox-ember-client.map
